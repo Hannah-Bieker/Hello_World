@@ -1,16 +1,16 @@
 ##Table of contents
   - [PROJECT TITLE](#Project-Title)
 - [DESCRIPTION](#Description)
-- [HOW TO RUN PROGRAM](#How-to-run-program)
+- [INTRO](#How-to-run-program)
 - [FILES USED](#files-used)
 - [ADDITIONAL DOCUMENTATION](#additional-documentation)
 
 ## Project Title
 
 ***Hello World***
-##_ How to Run Program_ 
+##_ intro_ 
 
-Explain here how you would run the program and what files need to be available. 
+About me: I am a student at the University of Iowa double majoring in Business Analytics and Information systems as well as Entrepreneurial Management. I am going to graduate Spring of 2023
 ```text
 Hello_World/
 └── 
